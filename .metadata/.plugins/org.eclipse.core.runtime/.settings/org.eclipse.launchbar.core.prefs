@@ -1,0 +1,6 @@
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:Driver (1),org.eclipse.launchbar.core.descriptorType.default\:Driver (2),org.eclipse.launchbar.core.descriptorType.default\:Driver (3),org.eclipse.launchbar.core.descriptorType.default\:Driver (4),org.eclipse.launchbar.core.descriptorType.default\:Driver,org.eclipse.launchbar.core.descriptorType.default\:BoardTests,org.eclipse.launchbar.core.descriptorType.default\:MoveTests,org.eclipse.launchbar.core.descriptorType.default\:MoveTests (1),org.eclipse.launchbar.core.descriptorType.default\:tests,org.eclipse.launchbar.core.descriptorType.default\:TileTests.tTilerotateCWTest,org.eclipse.launchbar.core.descriptorType.default\:TileTests
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:Driver\ (1)/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Driver\ (1)/activeLaunchTarget=org.eclipse.remote.LocalServices\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Driver/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Driver/activeLaunchTarget=org.eclipse.remote.LocalServices\:Local
